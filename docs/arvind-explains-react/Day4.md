@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Day 4
+# 04: Meet our Hero - JSX 😎
 
 ## What is JSX?
 

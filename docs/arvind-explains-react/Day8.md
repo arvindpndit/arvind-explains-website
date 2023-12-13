@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Day 8
+# 08: Finding the path 🔍
 
 Today, we will be focusing on learning and revising React Router, an essential library for handling routing in React applications.
 

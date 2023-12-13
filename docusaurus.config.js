@@ -112,13 +112,13 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/arvindpndit",
+                label: "YouTube",
+                href: "https://youtube.com/@arvindexplains",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} arvind explains.`,
       },
       prism: {
         theme: prismThemes.github,

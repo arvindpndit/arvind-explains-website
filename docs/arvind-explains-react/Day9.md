@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Day 9
+# 09: Let's get classy 🎩
 
 Welcome to Day 9 of revising React! Today, we'll be diving into class-based components and exploring various concepts related to them. Get ready to level up your React skills!
 

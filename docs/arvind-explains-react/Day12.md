@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# Day 12
+# 12: Data is the new oil 🛢️
 
 ## Introduction
 

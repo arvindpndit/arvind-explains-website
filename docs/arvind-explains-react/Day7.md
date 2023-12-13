@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Day 7
+# 07: Exploring the world 🌎
 
 Welcome back to the second half of the React revision! Today, we'll start by revising the `useState` Hook before moving further. The `useState` hook is a function used to create a local state variable. Whenever there is something that changes on the UI, we create a local variable to handle this, which keeps our UI in sync with the local state variable.
 

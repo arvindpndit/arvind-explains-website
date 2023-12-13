@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            About Arvind - 1min ⏱️
+            About Arvind - 30sec ⏱️
           </Link>
         </div>
       </div>

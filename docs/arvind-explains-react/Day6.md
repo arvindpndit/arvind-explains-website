@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Day 6
+# 06: Let's get Hooked 🔗
 
 ## Creating a File Structure
 

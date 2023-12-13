@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Day 3
+# 03: Don't worry, Babel is here! ⚛️
 
 In the previous day, I learned about the bundler and how it makes our app faster. Our app is dependent on the bundler which further depends upon other packages, and those can have dependencies on other packages, which is known as transitive dependencies.
 
