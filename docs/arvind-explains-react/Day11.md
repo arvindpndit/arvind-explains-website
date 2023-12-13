@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# Day 11
+# 11: Jo dikhta hai, wo bikta hai 📈
 
 Welcome to the third part of revising React! Today, we will be exploring different ways of writing CSS in our React applications. Understanding these techniques will empower you to style your React components effectively. Let's dive in:
 

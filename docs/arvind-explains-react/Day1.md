@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Day 1
+# 01: Enter in React's World 🌍
 
 Hello, I'm Arvind Pandit Prajapati, a frontend developer with a passion for React. I am currently on a revision journey to explore the power, beauty, and ability of React.
 

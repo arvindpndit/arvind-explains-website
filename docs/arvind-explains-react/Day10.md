@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Day 10
+# 10: Optimizing our app ⚡
 
 Welcome to Day 9 of revising React! In today's session, we will focus on optimizing our app and making our code production-ready. We'll cover some important concepts and techniques that will improve the performance, maintainability, and readability of our React applications. Let's dive in!
 

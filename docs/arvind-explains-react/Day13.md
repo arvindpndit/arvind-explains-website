@@ -2,7 +2,7 @@
 sidebar_position: 13
 ---
 
-# Day 13
+# 13: Let's build our store 🏪
 
 In a big web application, handling data is crucial. One popular library for handling data in React is Redux. Today, we will study Redux and how it can help us manage application state effectively.
 

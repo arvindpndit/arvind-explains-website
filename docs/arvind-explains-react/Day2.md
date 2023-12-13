@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Day 2
+# 02: Parcel is a beast 📦
 
 Today, I separated the HTML, JS, and CSS files to maintain separation of concerns. I also created my own "create_react_app" to make my app production-ready.
 

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Day 5
+# 05: Build your App 🏗️
 
 Hi there, it's me, Arvind! Today is day 5 of my React revision, and I'm excited to start building a food ordering application. To begin with, I created the basic layout of my application using the following components:
 

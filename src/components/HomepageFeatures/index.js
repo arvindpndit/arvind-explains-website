@@ -4,37 +4,34 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "JavaScript",
-    Svg: require("@site/static/img/logo-javascript.svg").default,
+    title: "JavaScript Explained",
+    imgSrc: require("@site/static/img/3.png").default,
     description: (
       <>
-        Power up web development with dynamic JavaScript (JS). Add life to your
-        projects, from simple scripts to powerful applications.
+        Learn JavaScript from zero to hero in three epic seasons (coming soon on
+        YoutTube).
       </>
     ),
   },
   {
-    title: "React",
-    Svg: require("@site/static/img/react-2.svg").default,
-    description: <>Transform UIs with React in 13 Days!</>,
+    title: "React Explained",
+    imgSrc: require("@site/static/img/4.png").default,
+    description: <>Explore the power of React (coming soon on YoutTube).</>,
   },
   {
-    title: "TypeScript",
-    Svg: require("@site/static/img/typescript.svg").default,
+    title: "TypeScript Explained",
+    imgSrc: require("@site/static/img/5.png").default,
     description: (
-      <>
-        Boost your code with TypeScript (TS). Ensure robust, error-free projects
-        with structured and scalable development.
-      </>
+      <>Make your code robust with TypeScript (coming soon on YoutTube).</>
     ),
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ imgSrc, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={imgSrc} alt={title} className={styles.featureImg} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
