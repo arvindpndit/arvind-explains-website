@@ -1,10 +1,12 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
 
 const FeatureList = [
   {
     title: "JavaScript Explained",
+    linkTo: "/docs/category/arvind-explains-javascript--",
     imgSrc: require("@site/static/img/3.png").default,
     description: (
       <>
@@ -15,11 +17,13 @@ const FeatureList = [
   },
   {
     title: "React Explained",
+    linkTo: "/docs/category/arvind-explains-react--%EF%B8%8F",
     imgSrc: require("@site/static/img/4.png").default,
     description: <>Explore the power of React (coming soon on YoutTube).</>,
   },
   {
     title: "TypeScript Explained",
+    linkTo: "/docs/intro",
     imgSrc: require("@site/static/img/5.png").default,
     description: (
       <>Make your code robust with TypeScript (coming soon on YoutTube).</>
@@ -27,16 +31,18 @@ const FeatureList = [
   },
 ];
 
-function Feature({ imgSrc, title, description }) {
+function Feature({ imgSrc, title, description, linkTo }) {
   return (
     <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <img src={imgSrc} alt={title} className={styles.featureImg} />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+      <Link to={linkTo}>
+        <div className="text--center">
+          <img src={imgSrc} alt={title} className={styles.featureImg} />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
+      </Link>
     </div>
   );
 }
