@@ -6,11 +6,6 @@ sidebar_position: 1
 
 Hello, I'm Arvind Pandit Prajapati, a frontend developer with a passion for React. I am currently on a revision journey to explore the power, beauty, and ability of React.
 
-## Connect with me
-
-- LinkedIn: https://www.linkedin.com/in/arvindpndit/
-- GitHub: https://github.com/arvindpndit
-
 I'm excited to share my progress with you. Let's dive in and explore the world of React together!
 
 🚀 **GitHub Repository:**
